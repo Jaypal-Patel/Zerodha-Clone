@@ -1,0 +1,63 @@
+.addCardBtn {
+  background-color: #387ED1;
+  width: 15%;
+  margin: 0 auto;
+  color: #fff;
+  font-weight: 500;
+}
+
+.addCardBtn:hover {
+  background-color: black;
+  color: #fff;
+}
+
+.nav-link {
+  margin-left: 35px;
+}
+
+.footerIcon i {
+  font-size: 25px;
+  color: black;
+}
+
+.footerIcon i:hover {
+  color: #387ED1;
+}
+
+.footerLink p a {
+  color: black;
+  font-size: 1rem;
+  opacity: 0.5;
+}
+
+.footerLink p a:hover {
+  color: #387ED1;
+  opacity: 1;
+}
+
+.footerPera a {
+  opacity: 0.6;
+  color: #387ED1;
+}
+
+.footerPera {
+  font-size: 12px;
+  opacity: 0.6;
+}
+
+.footerPera a:hover {
+  opacity: 1;
+  color: #387ED1;
+}
+
+.footerSpan {
+  margin: 0 20px 0 20px;
+  font-size: 12px;
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+.footerSpan:hover {
+  color: #387ED1;
+  opacity: 1;
+}

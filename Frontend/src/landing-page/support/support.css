@@ -1,0 +1,27 @@
+.hero a {
+  color: white;
+  border-bottom: 1px solid white;
+  margin-right: 10px;
+}
+
+.hero input {
+  width: 92%;
+  border: none;
+  outline: none;
+}
+
+.hero i {
+  color: black;
+  background-color: white;
+  font-size: 1.4rem;
+  padding: 12px 8px;
+} 
+
+.support h5 a {
+  color: black;
+}
+
+.support a {
+  color: #387ED1;
+  opacity: 75%;
+}
